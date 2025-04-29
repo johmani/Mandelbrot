@@ -1,0 +1,9 @@
+﻿.vs
+Build
+Source/Mandelbrot/Embeded/dxil
+Source/Mandelbrot/Embeded/spirv
+*.log
+*.sln
+*.vcxproj
+*.filters
+*.user
